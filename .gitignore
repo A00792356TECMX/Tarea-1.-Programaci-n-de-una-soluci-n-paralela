@@ -1,0 +1,21 @@
+# Ejecutables
+*.exe
+*.out
+
+# Archivos de Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Build de CMake
+build/
+
+# Archivos del sistema
+desktop.ini
+Thumbs.db
+.DS_Store
